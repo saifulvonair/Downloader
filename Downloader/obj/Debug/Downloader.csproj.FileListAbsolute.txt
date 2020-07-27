@@ -1,0 +1,9 @@
+E:\SELECTED_FOR_GITHUB\Downloader\Downloader\obj\Debug\Downloader.csprojResolveAssemblyReference.cache
+E:\SELECTED_FOR_GITHUB\Downloader\Downloader\obj\Debug\Downloader.MainForm.resources
+E:\SELECTED_FOR_GITHUB\Downloader\Downloader\obj\Debug\Downloader.Properties.Resources.resources
+E:\SELECTED_FOR_GITHUB\Downloader\Downloader\obj\Debug\Downloader.csproj.GenerateResource.Cache
+E:\SELECTED_FOR_GITHUB\Downloader\Downloader\Downloader.exe.config
+E:\SELECTED_FOR_GITHUB\Downloader\Downloader\obj\Debug\Downloader.exe
+E:\SELECTED_FOR_GITHUB\Downloader\Downloader\obj\Debug\Downloader.pdb
+E:\SELECTED_FOR_GITHUB\Downloader\Downloader\Downloader.exe
+E:\SELECTED_FOR_GITHUB\Downloader\Downloader\Downloader.pdb
